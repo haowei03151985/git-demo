@@ -24,4 +24,11 @@ public class GeneratorDDLTest extends SpringTestCase{
 		GeneratorJavaBeanMySQL.generatorJavaBean(jdbcTemplate, "t_member", "Member");
 	}
 	
+	
+	@Test
+	public void test1() throws Exception {
+		test1("Member");
+	}
+	
+	
 }
