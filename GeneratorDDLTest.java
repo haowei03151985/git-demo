@@ -27,8 +27,8 @@ public class GeneratorDDLTest extends SpringTestCase{
 	
 	@Test
 	public void test1() throws Exception {
-		test1("Member");
+		test1("Member");werwe12
 	}
 	
-	
+	retertert
 }
